@@ -1,6 +1,7 @@
 # LLAMA_prompt1 Project
 
 This project evaluates different prompting methods and models on various datasets using the LLAMA models.
+This project explores the use of LLAMA models from SambaNova's prompting API for classification tasks across various datasets from the XClass repository. We aim to evaluate the performance of different prompting methods using 1B, 3B, and 8B LLAMA models, comparing accuracy under multiple prompt strategies.
 
 ## Directory Structure
 
