@@ -1,0 +1,14 @@
+{
+    "dataset": "yelp",
+    "file_path": "data/yelp_review_full_csv/test.csv",
+    "models": [
+      "Meta-Llama-3.2-1B-Instruct",
+      "Meta-Llama-3.2-3B-Instruct",
+      "Meta-Llama-3.1-8B-Instruct"
+    ],
+    "prompting_methods": ["direct", "chain-of-thought", "few-shot"],
+    "num_samples_per_class": 10,
+    "token_budget": 4000,
+    "results_file": "results/yelp_results.csv"
+  }
+  

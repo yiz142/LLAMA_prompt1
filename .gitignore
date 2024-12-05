@@ -1,0 +1,8 @@
+# Ignore data files
+data/
+results/
+.env
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
